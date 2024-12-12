@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="left">Olá 👋, Eu sou Luiz Henrique</h1>
+<h3 align="left">Um desenvolvedor apaixonado por tecnologia e games</h3>
 
-<!--
-**LuizHenrique31415/LuizHenrique31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNISUL
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **Desenvolvimento Back-end**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 Moro em **Florianópolis, Santa Catarina**
+
+- 🎮 Minha paixão por games me trouxe para a área de tecnologia
+
+- 📚 Formação prevista para **Setembro de 2024**
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+
+**Front-end**
+```
+- Nuxt.js
+- Vue.js
+- Vuetify
+- TypeScript
+```
+
+**Gerenciamento de Estado e Roteamento**
+```
+- Pinia
+- Vue Router
+- Vue I18n
+```
+
+**DevOps e Cloud**
+```
+- Docker
+- AWS
+- Terraform
+```
+
+**Desenvolvimento e Qualidade**
+```
+- Jest
+- ESLint
+- Prettier
+- Axios
+```
+
+**Componentes e Bibliotecas**
+```
+- FullCalendar
+- Vue Draggable Next
+- Vue Easy Lightbox
+- Vue Tabler Icons
+- Vue3 Perfect Scrollbar
+- ApexCharts
+```
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU-USERNAME&show_icons=true&locale=en&layout=compact&theme=dark" alt="suas linguagens mais usadas"/>
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&locale=en&theme=dark" alt="suas estatísticas do github"/>
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USERNAME&theme=dark" alt="sua sequência de contribuições"/>
+</p>
