@@ -3,13 +3,13 @@
 
 - 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNISUL
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Back-end**
+- 🌱 Atualmente estou aprendendo **Desenvolvimento Back-end e Front-end**
 
 - 🏠 Moro em **Florianópolis, Santa Catarina**
 
 - 🎮 Minha paixão por games me trouxe para a área de tecnologia
 
-- 📚 Formação prevista para **Setembro de 2024**
+- 📚 Formação prevista para **Final de 2024**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
