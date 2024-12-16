@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋, Eu sou Luiz Henrique</h1>
 <h3 align="left">Um desenvolvedor apaixonado por tecnologia e games</h3>
 
-- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNISUL
+- 🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** na UNISUL
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Back-end e Front-end**
 
