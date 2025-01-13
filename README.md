@@ -9,7 +9,7 @@
 
 - 🎮 Minha paixão por games me trouxe para a área de tecnologia
 
-- 📚 Formação prevista para **Final de 2024**
+- 📚 Formado em ADS
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
@@ -41,16 +41,6 @@
 - ESLint
 - Prettier
 - Axios
-```
-
-**Componentes e Bibliotecas**
-```
-- FullCalendar
-- Vue Draggable Next
-- Vue Easy Lightbox
-- Vue Tabler Icons
-- Vue3 Perfect Scrollbar
-- ApexCharts
 ```
 
 <p align="left">
